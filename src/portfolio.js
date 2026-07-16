@@ -23,7 +23,7 @@ const greeting = {
   username: "Ava Sadasivan",
   title: "Hi, I'm Ava",
   subTitle: emoji(
-    "A Computer Engineering student at Georgia Tech interested in software engineering and data-driven systems. I like turning messy, real-world data into something usable — most recently a telemetry pipeline that cleans and unifies ~81,000 NASA satellite detections for a federated learning framework."
+    "A Computer Engineering student at Georgia Tech interested in software engineering and data-driven systems."
   ),
   resumeLink: "resume.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
